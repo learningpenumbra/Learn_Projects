@@ -1,0 +1,32 @@
+.me {
+  background-color: #F000F9;
+  /*position: static;*/
+  /*position: relative;*/
+  /*position: absolute;*/
+  position: fixed;
+  /*padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  top: 0px;
+  left:0px;
+  right: 0px;
+  bottom: 0px;
+}
+.dad {
+  position: relative;*/
+}
+
+.grand-dad {
+  padding: 50px;
+  background: #00A0A0;
+  position: relative;
+}
+/*Default values:
+## {
+  position: static;
+
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+}
+*/
