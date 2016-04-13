@@ -1,0 +1,13 @@
+body {
+  background-color: #336699;
+}
+
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  color: #aa80ff;
+  box-shadow: 1px 3px 4px black;
+  padding: 0px;
+}
